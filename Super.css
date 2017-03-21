@@ -1,0 +1,26 @@
+html
+{
+	background-image: url("nice.png");
+}/*html*/
+
+h1
+{
+	text-align:center;
+	color:silver;
+	font-size:30pt;
+	font-family:fantasy, arial, sans-serif;
+}/*h1*/
+
+img
+{
+	margin-left:400px;
+}/*img*/
+
+p
+{
+	text-align:center;
+	color:lightgrey;
+	border:5px solid silver;
+	background-color: blue;
+	margin:40px 10px 10px 10px;
+}/*p*/
